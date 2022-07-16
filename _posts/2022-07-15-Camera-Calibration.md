@@ -4,3 +4,4 @@ Camera calibration is a necessary part of any computer vision project. It is a t
 
 In this post, I will explain one of the well known classical camera calibration methods, called, Zhang's method, which was proposed in around 2000s in the following paper[1]. The first thing you need to be able to calibrate your camera is a picture of known pattern imaged on a 2D plane. It is called a calibration object and people usually use chessboard pattern as shown below.
 
+![chessboard](https://user-images.githubusercontent.com/18645902/179359427-ed43daed-b03d-441c-821b-40fa9ee8c5c5.png)
