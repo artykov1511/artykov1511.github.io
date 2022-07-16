@@ -15,6 +15,9 @@ email: "artikov.arslan@mail.com"
 #youtube_username: username
 #googleplus_username: +username
 
+# Build settings
+markdown: kramdown
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
