@@ -8,3 +8,5 @@ In this post, I will explain one of the well known classical camera calibration 
 ![chessboard](https://user-images.githubusercontent.com/18645902/179359427-ed43daed-b03d-441c-821b-40fa9ee8c5c5.png)
 
 After getting your calibration object, let's assume that it is sticked to the center of the world frame. So every point on the chessboard pattern has the Z=0. Now, with this information at hand we will build a relationship between the points in the calibration object (which was sticked onto the world frame) and the ones on our images.  
+
+$$E=mc^2$$
